@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "swift-drive-434602-b7",
+  "private_key_id": "92d8f4cef21618dd0561f3f455e07c2b8fe07324",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCe8iMDm3O0EAdi\nzja5eth9B/q2Xuk7pT5ksKUVM+jq6oRTPEF2U850EUHGDwbla//6dItRTUPHJwZu\nYBFlLBhd80tH7wUw39ruiQvreEKGujz0rodLYxxzFfWpCVtSmeQAOOFiMbgghmPC\nhTSZmCTd2UvF/vW4kzhAZwtD3FXAdvi/2p6MepY50xI9wd9RBhZHTMqPBe+PCCcp\nQylJN64OPh2l0HGz1dwrv21qSzlAcjcNwaZgrfFQ24081eD1OBZnHu2RReRh9g1G\nbOdxX8ZWZPOWTHxaIQsijSM8fNDxdtaVSyjJSG8/s564HQnJAdUpqUUBnSjSOrvp\nZ1opbMyPAgMBAAECggEAKJeMC6LKpMSnLjudzDasTRoZlDOe+uWTjqFyN3z/Uec8\njglIapCym//APXWe/D5drDfRUJ0b3yN/R/bu2litjGjS4/cN61JwFhUX3zXiP4gW\ngyKDWORh4p5ME7RZBzpX+RqNrMcnz96iYY4lRciOOb4B1PntBQtMBV6LiPQfTjxs\npOWvDBb4/8Gq2tBCy11mQ8nDTM2JTefQnnRQamZumBH3FuLmFWCx/BI2wFaYOPOg\ngV1+NW+wA66UkhWnGQ49PG30GvyKYHlkkqCIgHOdrDebV36z9dHnKjjSnQ/YlSzv\nO4PPNq81g0WmC6z0MOQ1yK09qd9ImmmCrTg0iLFncQKBgQDaag1HR3mFMUkUlXjN\nvn7/Jum9ykt2rbFFpOTltV6vje3zeSQ1CHNkT7BEs+4s27Dnz0CypgBDea7I+S7b\njaUTvI0nYICokveOFjzbLic5NcBcZ/n2B6/gVA7hQhR1pw8eUvjcHsqZxbEbVu2i\nFSQ7RAL2DoI/2gbcrFhNkupIqQKBgQC6TEiIBQXiHG2frLwQ2/VMu/TgGNscbYFN\ncAqlTfcMv7gztLII0EvDowjj/yofC7EmiwbitNo6UthFTUUU32ydRx2RAla/vzZ2\nUQprSyB5bfUJPNJfV1qfN+jemvjncUsoK0VFm3Mb1/eiHlgT5rOa1PJWPmu1acjw\nrfDn1aKWdwKBgDSySanc8NDV50/0EEVzpKhi9xo3aKWlmpO3CRLzA3lPwQ1xOO8i\nrtSQ9XJeByUDjFchhfaUXpPpE+ahWFDYh++PGm9ZtTD25It/igdHx2biNRsWaxSV\nHjX9kel/S/hm6hri4fAZ7b/UFrsF6iek+iziZ+R986b8L5OmcVemDqihAoGAfNn8\nzfOX0sY8jYNE8oOG7KsWXE0sIuwceNo6uDf89nVSLIzPt+porC8KGUp7Xx0F1w/b\nSHntuqKkwCUdw/RMJUdwwCryGkU6aaa8NdW+aMLRMiSp1C2F1SiyDuWLJAigVsZR\nAWpBhYqCMgrl+khlW8GUu0nQA19mxC2+QpDBCtcCgYBZOO36HudgBvUo+Zz+hMzZ\ndDm/ztkKeZjgzIiYtTzxZZRiPc8DewNlgYQQyFn1J+mf6GPmKnBFTupTkiNXDG5h\nUnbBcCLZVozPRta392gNOqlEIwWzMJe0ww3QJddXLrLisAYnuDsrq0DUDTxUKE3r\nlZD5oYBMWSyiEgAN9kjBRg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonsheets@swift-drive-434602-b7.iam.gserviceaccount.com",
+  "client_id": "115023323336387356135",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonsheets%40swift-drive-434602-b7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
