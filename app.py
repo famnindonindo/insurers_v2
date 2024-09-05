@@ -71,7 +71,7 @@ if "messages" not in st.session_state:
         }
     ]
 
-file_path = "/Users/famnindo/Documents/OCR_V2/ai-image-ocr/insurverse_chatbot/insurverse_p1 (5).xlsx"
+file_path = "insurverse_p1 (5).xlsx"
 try:
     df = pd.read_excel(file_path)
     file_content = df.to_string(index=False)
